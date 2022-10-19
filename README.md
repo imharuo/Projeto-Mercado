@@ -1,4 +1,4 @@
-## Projeto-Mercado/Poject-Market
+## Projeto-Mercado/Market-Poject
 <i> Terminal App </i>
 <p> - Menu </p> <img src="https://user-images.githubusercontent.com/104368550/196715308-b7c18021-6396-4f87-a930-c5ff9ff03a09.jpg">
 <p> - Cadastra um produto/Register a product</p>
